@@ -5,7 +5,7 @@ namespace App\Patterns\Strategy;
 use App\Exceptions\UnknownPaymentMethodException;
 use App\Patterns\Strategy\PaymentMethods\CreditCardPaymentMethod;
 use App\Patterns\Strategy\Interfaces\IPaymentMethod;
-use App\Patterns\strategy\PaymentMethods\BoletoPaymentMethod;
+use App\Patterns\Strategy\PaymentMethods\BoletoPaymentMethod;
 
 class StrategyContext
 {
