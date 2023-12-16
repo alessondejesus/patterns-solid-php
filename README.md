@@ -9,7 +9,7 @@
 
 Here you will see real examples and practices of design patterns and SOLID in PHP that you can to apply in your project
 
-- [Strategy](https://refactoring.guru/design-patterns/strategy).
+- [Strategy](https://refactoring.guru/design-patterns/strategy)
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
